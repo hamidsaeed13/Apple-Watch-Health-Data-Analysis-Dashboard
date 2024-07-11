@@ -5,5 +5,3 @@ flask
 jupyter_dash
 pandas
 plotly
-read_apple_watch_data
-save_apple_watch_data
