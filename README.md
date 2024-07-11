@@ -39,37 +39,37 @@ This app not only provides a comprehensive analysis of Apple Watch data but also
 
 ### Upload XML File
 
-![Upload XML File](images/upload.png)
+![Upload XML File](images/upload.PNG)
 
 Navigate to the "Upload" tab to upload your Apple Watch XML file. Once uploaded, the progress bar will update and indicate the upload status.
 
 ### Personal Information
 
-![Personal Information](images/personal_info.png)
+![Personal Information](images/personal_info.PNG)
 
 The "Personal Information" tab displays personal data extracted from the XML file, such as age, weight, height, etc.
 
 ### Heart Rate Analysis
 
-![Heart Rate Analysis](images/heart_rate.png)
+![Heart Rate Analysis](images/heart_rate.PNG)
 
 The "Heart Rate" tab provides various graphs to visualize heart rate data over time.
 
 ### Activity Analysis
 
-![Activity Analysis](images/activity.png)
+![Activity Analysis](images/activity.PNG)
 
 In the "Activity" tab, you can view detailed activity data including steps taken, calories burned, and more.
 
 ### Sleep Analysis
 
-![Sleep Analysis](images/sleep.png)
+![Sleep Analysis](images/sleep.PNG)
 
 The "Sleep Analysis" tab shows your sleep patterns and provides comprehensive graphs for better understanding.
 
 ### Download CSV
 
-![Download CSV](images/download_csv.png)
+![Download CSV](images/download_csv.PNG)
 
 Finally, the "Download CSV" tab allows you to download the processed data as a CSV file for further analysis.
 
